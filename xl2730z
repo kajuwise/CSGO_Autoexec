@@ -1,0 +1,71 @@
+G1
+-
+Blur reduction: ON
+  Intensity: 21
+  Area: 11
+Black eQualizer: 0
+Color Vibrance: 9
+Low Blue Light: 0
+Instant Mode: ON
+Augo Game Mode: OFF
+-
+Picture Mode: Gamer1 (Standard)
+Brightness: 100
+Contrast: 75
+Sharpness: 10
+Gamma: 3
+Color Temperature: Normal
+AMA: High
+-
+-
+G2
+Blur reduction: OFF
+Black eQualizer: 0
+Color Vibrance: 11
+Low Blue Light: 2
+Instant Mode: OFF
+Augo Game Mode: OFF
+-
+Picture Mode: Gamer2 (Standard)
+Brightness: 20
+Contrast: 40
+Sharpness: 10
+Gamma: 3
+Color Temperature: User Define (94,100,99)
+AMA: High
+DynamicContrast:0
+-
+-
+G3
+Blur reduction: OFF
+Black eQualizer: 0
+Color Vibrance: 11
+Low Blue Light: 0
+Instant Mode: OFF
+Augo Game Mode: OFF
+-
+Picture Mode: Gamer3 (Standard)
+Brightness: 55
+Contrast: 40
+Sharpness: 10
+Gamma: 3
+Color Temperature: User Define (94,100,99)
+AMA: High
+DynamicContrast:0
+--
+--
+System
+OSD
+  Display Time: 30sec.
+Custom Key
+  1: Input
+  2: Blur Reduction
+  3: Brightness
+Other Setting
+  Resolution Notice: OFF
+  Buzzer: OFF
+  Input Auto Switch: ON
+  Auto Pivot Sensor: ON
+  Auto Power Off: OFF
+  Led Indicator: Medium
+  DDC/CI: ON
